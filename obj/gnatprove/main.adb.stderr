@@ -1,0 +1,13 @@
+main.adb:13:49: expect signed integer type in instantiation of "Integers"
+main.adb:13:49: instantiation abandoned
+main.adb:14:08: "Fives" is undefined
+main.adb:16:08: "Combination" is not visible
+main.adb:16:08: non-visible declaration at iterador_combinaciones.ads:6
+main.adb:16:20: incorrect constraint for this kind of type
+main.adb:18:06: "First" is not visible
+main.adb:18:06: non-visible declaration at iterador_combinaciones.ads:7
+main.adb:20:07: ambiguous expression (cannot resolve "Put")
+main.adb:20:07: possible interpretation at a-textio.ads:242
+main.adb:20:07: possible interpretation at a-textio.ads:208
+main.adb:21:07: "Next" is not visible
+main.adb:21:07: non-visible declaration at iterador_combinaciones.ads:8
